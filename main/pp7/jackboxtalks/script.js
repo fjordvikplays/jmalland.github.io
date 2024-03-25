@@ -12585,7 +12585,7 @@ class oi {
                 TV_SENTRY_RATE: "0.2",
                 TV_SLACK_DEBUG: "https://hooks.slack.com/services/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",
                 TV_TWITCH_CLIENT_ID: "yn2iepd23vskpmkzgeg2lkfsct7gsc",
-                BASE_URL: "https://bundles.jackbox.tv/main/pp7-jackboxtalks/",
+                BASE_URL: "https://jmalland.github.io/main/pp7/jackboxtalks/",//bundles.jackbox.tv/main/pp7-jackboxtalks/",
                 MODE: "production",
                 DEV: !1,
                 PROD: !0
