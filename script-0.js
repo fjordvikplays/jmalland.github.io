@@ -13714,7 +13714,7 @@ Url: ${Cr(t)}`), !0)
                     },
                     "jackbox-talks": {
                         file: "script.js",
-                        css: ["assets/style-0.css", "slideshow-display.css"],
+                        css: ["assets/style.css", "assets/slideshow-display.css", "assets/trophy-display.css", "assets/character-display.css"],
                         base: "main/pp7/jackboxtalks",
                         version: "5.25.0"
                     },
