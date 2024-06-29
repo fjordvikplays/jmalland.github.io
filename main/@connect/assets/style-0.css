@@ -6595,7 +6595,8 @@ button.audience.connecting:before {
 .slide-banner[data-v-a6c56893] {
     -webkit-user-select: none;
     user-select: none;
-    max-width: 375px;
+    max-width: 1px;
+	display: hidden;
     margin: 18px auto 0;
     -webkit-mask-image: linear-gradient(to right, transparent 0%, white 10%, white 90%, transparent 100%);
     mask-image: linear-gradient(to right, transparent 0%, white 10%, white 90%, transparent 100%)
