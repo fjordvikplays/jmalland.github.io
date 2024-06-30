@@ -6596,7 +6596,7 @@ button.audience.connecting:before {
     -webkit-user-select: none;
     user-select: none;
     max-width: 1px;
-	display: hidden;
+	display: none;
     margin: 18px auto 0;
     -webkit-mask-image: linear-gradient(to right, transparent 0%, white 10%, white 90%, transparent 100%);
     mask-image: linear-gradient(to right, transparent 0%, white 10%, white 90%, transparent 100%)
