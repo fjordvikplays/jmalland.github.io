@@ -31090,7 +31090,7 @@ const zR = yt.View.extend({
     },
     Xu = `<form>
     <div class="form-group">
-        <div class="charCountDisplay"><span class="charCount">0/45</span></div>
+        <div class="charCountDisplay"><span class="charCount">0/250</span></div>
         <div class="inputGroup">
             <textarea id="input-text-textarea" rows="1" class="form-control jbg-input" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"></textarea>
             <span class="inlineSubmit">
