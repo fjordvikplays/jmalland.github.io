@@ -1015,7 +1015,7 @@ function cc() {
                     },
                     Ta = /([\0-\x1f\x7f]|^-?\d)|^-$|[^\0-\x1f\x7f-\uFFFF\w-]/g,
                     As = function(I, F) {
-                        return F ? I === "\0" ? "�" : I.slice(0, -1) + "\\" + I.charCodeAt(I.length - 1).toString(16) + " " : "\\" + I
+                        return F ? I === "\0" ? " " : I.slice(0, -1) + "\\" + I.charCodeAt(I.length - 1).toString(16) + " " : "\\" + I
                     },
                     Ls = function() {
                         le()
@@ -29377,7 +29377,7 @@ const UR = `<div id="controller" class="state-controller controller-content">\r
             episodes: [],
             episodeTitle: "",
             index: 0,
-            maxContentLength: 45,
+            maxContentLength: 200,
             maxTitleLength: 20,
             name: "",
             noActionsText: "",
